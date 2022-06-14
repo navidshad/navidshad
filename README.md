@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ✨ Full-Stack Developer ✨ working in Istanbul, Turkey, with +5 years experience in web and mobile development.
+I'm a ✨ Full-Stack Developer ✨ working in Istanbul, Turkey, with +5 years experience in web and mobile development.
 
 - 💬 Ping me about Vuejs, Flutter, Angular, Nodejs, Express
 - 📫 How to reach me: navidshad72@gmail.com
