@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a ✨ Full-Stack Developer ✨ with +6 years experience in web and mobile development.
+I'm a ✨ Full-Stack Developer ✨ with +8 years experience in web and mobile development.
 
 - 🌱 Creator of [Modular-Rest](https://modular-rest.github.io/modular-rest/)
 - 💬 Ping me about `Vuejs`, `Flutter`, `Angular`, `Nodejs`, `Express`
